@@ -6,7 +6,6 @@ docVault is a web application built with Next.js and TypeScript that serves as a
 
 - **Secure Document Storage:** Safely store your important documents on the cloud.
 - **User-Friendly Interface:** An intuitive and easy-to-use web interface for seamless document management.
-- **Search Functionality:** Quickly find and access your documents with a powerful search feature.
 
 ## Getting Started
 
