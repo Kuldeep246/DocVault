@@ -1,37 +1,32 @@
-# My Next.js App
+# docVault
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+docVault is a web application built with Next.js and TypeScript that serves as a secure document storage platform, allowing users to easily store and access their documents.
+
+## Features
+
+- **Secure Document Storage:** Safely store your important documents on the cloud.
+- **User-Friendly Interface:** An intuitive and easy-to-use web interface for seamless document management.
+- **Search Functionality:** Quickly find and access your documents with a powerful search feature.
 
 ## Getting Started
 
-To run the development server, use the following commands:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Make sure you have Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/docVault.git
+   cd docVault
+
+   npm install
+
+   npm run dev
+   or
+  
 
 
 
-
-Open http://localhost:3000 with your browser to see the result.
-
-You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
-
-Features
-Font Optimization: This project uses next/font to automatically optimize and load Inter, a custom Google Font.
-Learn More
-To learn more about Next.js, take a look at the following resources:
-
-Next.js Documentation - learn about Next.js features and API.
-Learn Next.js - an interactive Next.js tutorial.
-You can check out the Next.js GitHub repository - your feedback and contributions are welcome!
-
-Deploy on Vercel
-The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
-
-Check out our Next.js deployment documentation for more details.
